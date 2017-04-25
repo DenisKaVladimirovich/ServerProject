@@ -1,0 +1,9 @@
+﻿  SServer.cpp
+c:\users\денис\documents\visual studio 2015\projects\serverproject\serverproject\sserver.cpp(26): warning C4101: ssdf: неиспользованная локальная переменная
+c:\users\денис\documents\visual studio 2015\projects\serverproject\serverproject\sserver.cpp(57): warning C4101: from_struct: неиспользованная локальная переменная
+c:\users\денис\documents\visual studio 2015\projects\serverproject\serverproject\sserver.cpp(56): warning C4101: buffer: неиспользованная локальная переменная
+  SClient.cpp
+  main.cpp
+  Создание кода...
+  ServerProject.vcxproj -> C:\Users\Денис\documents\visual studio 2015\Projects\ServerProject\Debug\ServerProject.exe
+  ServerProject.vcxproj -> C:\Users\Денис\documents\visual studio 2015\Projects\ServerProject\Debug\ServerProject.pdb (Partial PDB)
